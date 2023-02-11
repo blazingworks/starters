@@ -1,6 +1,8 @@
 {
   "branches": [
-    "main"
+    {
+      "name": "main"
+    }
   ],
   "repositoryUrl": "https://github.com/blazingworks/reggy.git",
   "plugins": [
